@@ -1,5 +1,8 @@
 # Sub2API
 
+> **🚀 本地快速启动：请查看 [LOCAL_RUN.md](./LOCAL_RUN.md) | 一键启动命令：`./start-dev.sh`**
+
+
 <div align="center">
 
 [![Go](https://img.shields.io/badge/Go-1.25.7-00ADD8.svg)](https://golang.org/)
